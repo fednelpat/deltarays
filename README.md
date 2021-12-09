@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, I'm DeltaRays. I'm a student and a developer interested in everything scientific.
+
+I love learning new things about everything, so if you have any cool facts you want to share hit me up!
+
+![My stats](https://github-readme-stats.vercel.app/api?username=deltarays&show_icons=true)
+
 <!--
 **DeltaRays/deltarays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
