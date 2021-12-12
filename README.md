@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm DeltaRays. I'm a student and a developer interested in everything scientific.
+I'm DeltaRays. I'm a student and a developer interested in everything scientific.
 
 I love learning new things about everything, so if you have any cool facts you want to share hit me up!
 
